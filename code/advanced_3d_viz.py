@@ -9,7 +9,6 @@ This module provides cutting-edge 3D visualization techniques including:
 - Morphing geometries
 - Holographic-style projections
 
-Author: Bachelor Thesis Student
 Date: 2025
 """
 

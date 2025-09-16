@@ -9,7 +9,6 @@ We start with basic exponential decay, move to population dynamics, and finish w
 some oscillatory action. Each one teaches us something different about how to make 
 neural networks respect differential equations.
 
-Built by: Someone who learned ODEs the hard way and wants to make it easier for you
 Year: 2025
 """
 

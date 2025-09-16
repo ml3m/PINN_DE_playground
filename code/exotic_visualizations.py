@@ -5,7 +5,6 @@ Exotic and Satisfying 3D Visualizations for PINN Data
 This module provides advanced 3D visualization techniques for Physics-Informed Neural Networks,
 including interactive plots, animated surfaces, particle systems, and artistic renderings.
 
-Author: Bachelor Thesis Student
 Date: 2025
 """
 

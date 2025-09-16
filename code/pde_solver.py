@@ -11,9 +11,6 @@ Each PDE teaches us something different:
 - Wave equation: How energy bounces around while conserving itself  
 - Burgers' equation: How simple nonlinear effects can create complex phenomena
 
-Warning: This is where PINNs start showing their true power (and their quirks).
-
-Built by: Someone who spent way too much time debugging gradient computations
 Year: 2025
 """
 

@@ -1,6 +1,5 @@
 """
-Title: Differential Equations and Neural Networks — A Beginner's PINN Thesis
-Author: Vlad Ifju (example)
+Title: Differential Equations and Neural Networks
 Date: 2025
 
 Abstract

@@ -7,7 +7,6 @@ This script runs all experiments and generates all results for the bachelor thes
 on Physics-Informed Neural Networks. It provides a comprehensive demonstration
 of PINN capabilities across various problems.
 
-Author: Bachelor Thesis Student
 Date: 2025
 
 Usage:

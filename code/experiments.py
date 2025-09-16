@@ -5,7 +5,6 @@ Advanced Experiments and Comparisons for PINN Thesis
 This module contains advanced experiments including optimizer comparisons,
 architecture studies, inverse problems, and noise robustness analysis.
 
-Author: Bachelor Thesis Student
 Date: 2025
 """
 

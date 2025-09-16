@@ -21,7 +21,7 @@ This repository contains a complete PINN framework that embeds physical laws dir
 
 **Dependencies:**
 ```bash
-pip install torch numpy matplotlib seaborn pytest
+pip install -r requirements.txt
 ```
 
 ## Usage
@@ -213,10 +213,6 @@ PINN/
 ├── docs/                    # Documentation
 └── README.md               # This file
 ```
-
-## License
-
-Educational use. Developed as part of a bachelor thesis project.
 
 ## References
 

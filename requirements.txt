@@ -1,0 +1,27 @@
+# Physics-Informed Neural Networks Bachelor Thesis
+# Core Dependencies
+
+# Deep Learning Framework
+torch>=1.11.0
+
+# Numerical Computing
+numpy>=1.21.0
+
+# Plotting and Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Scientific Computing (optional, for advanced features)
+scipy>=1.7.0
+
+# Development and Testing
+pytest>=6.0.0
+jupyter>=1.0.0
+
+# Additional useful packages
+tqdm>=4.60.0  # Progress bars
+tensorboard>=2.8.0  # Training visualization (optional)
+plotly>=6.3.0
+
+# For GPU support (install manually if needed):
+# torch with CUDA: pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118

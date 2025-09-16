@@ -31,15 +31,15 @@ pip install -r requirements.txt
 Run all experiments:
 ```bash
 cd code
-python thesis_runner.py --all
+python main.py --all
 ```
 
 Run specific experiment categories:
 ```bash
-python thesis_runner.py --ode       # Ordinary differential equations
-python thesis_runner.py --pde       # Partial differential equations
-python thesis_runner.py --experiments  # Advanced comparative studies
-python thesis_runner.py --tests     # Test suite
+python main.py --ode       # Ordinary differential equations
+python main.py --pde       # Partial differential equations
+python main.py --experiments  # Advanced comparative studies
+python main.py --tests     # Test suite
 ```
 
 ### Code Structure
@@ -168,7 +168,7 @@ class CustomPINN(BasePINN):
 
 Run the test suite:
 ```bash
-python thesis_runner.py --tests
+python main.py --tests
 ```
 
 The test suite includes:
@@ -206,11 +206,8 @@ PINN/
 │   ├── ode_solver.py        # ODE implementations
 │   ├── pde_solver.py        # PDE implementations
 │   ├── experiments.py       # Advanced studies
-│   └── thesis_runner.py     # Main execution script
-├── tests/
-│   └── test_pinn_thesis.py  # Test suite
+│   └── main.py              # Main execution script
 ├── figures/                 # Generated visualizations
-├── docs/                    # Documentation
 └── README.md               # This file
 ```
 
